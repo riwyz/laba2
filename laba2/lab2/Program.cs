@@ -22,6 +22,7 @@ namespace Program
             switch (oper)
             {
                 case '+':
+                    Console.WriteLine(a + b);
                     break;
                 case '-':
                     break;
