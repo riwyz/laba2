@@ -16,7 +16,7 @@ namespace Program
             oper = Convert.ToChar(Console.ReadLine());
 
             Console.WriteLine("Введите второе число:");
-
+            b = Convert.ToDouble(Console.ReadLine());
 
             switch (oper)
             {
