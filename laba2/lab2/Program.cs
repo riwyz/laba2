@@ -23,6 +23,7 @@ namespace Program
                 case '+':
                     break;
                 case '-':
+                    Console.WriteLine(a - b);
                     break;
                 case '*':
                     break;
