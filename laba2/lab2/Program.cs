@@ -17,10 +17,10 @@ namespace Program
 
             Console.WriteLine("Введите второе число:");
 
-
             switch (oper)
             {
                 case '+':
+                    Console.WriteLine(a + b);
                     break;
                 case '-':
                     break;
